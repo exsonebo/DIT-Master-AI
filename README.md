@@ -1,2 +1,2 @@
 # DIT-Master-AI
-Repository containing filies with lines of code Python related to the DIT Master AI Class
+Repository containing files with lines of code Python related to the DIT Master AI Class
